@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lokimcpuniverse-harness-mcp-server-badge.png)](https://mseep.ai/app/lokimcpuniverse-harness-mcp-server)
+
 # Harness MCP Server
 
 <div align="center">
